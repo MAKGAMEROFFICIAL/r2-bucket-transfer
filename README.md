@@ -24,7 +24,6 @@ This tool uses **Node.js streams** to pipe data directly from the source to the 
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
    cd your-repo-name
 
-```
 
 2. **Install dependencies:** (make sure to install typescript,and other packages needed to run typescript)
 
